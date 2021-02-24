@@ -1,0 +1,20 @@
+print("slicing with strings")
+s1="anne"
+s2="dawson"
+s3=""
+print(len(s1),end="")
+print(len(s3))
+
+print("intergers with strings")
+x=20
+y=75
+print('the sum of %d and %d is %d'%(x,y,x+y))
+
+x=20.33
+y=75.76
+print('the sum of %f and %f is %f'%(x,y,x+y))
+
+
+x="python"
+y="programming"
+print('the sum of %s and %s is %s'%(x,y,x+y))
